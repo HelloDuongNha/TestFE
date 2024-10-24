@@ -563,14 +563,6 @@ input[type="date"] {
     background-color: #ffdc73;
 }
 
-/* Right Profile sidebar */
-.profile-sidebar {
-    width: 200px;
-    background-color: var(--background-color);
-    padding: 20px;
-    border-left: 2px solid #ccc;
-}
-
 /* General styles */
 .profile-sidebar {
     width: 320px;
